@@ -1,0 +1,40 @@
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    align-items: center;
+    height: 60px;
+
+   
+}
+
+.logo{
+    color: white;
+    padding-left: 15px;
+}
+
+.menu-container{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+  
+}
+
+.menu-container li{
+    margin: 0 20px;
+    list-style: none;
+    color: white;
+    
+
+}
+
+.menu-container li a{
+
+  text-decoration: none;
+  cursor: pointer;
+
+}
+
